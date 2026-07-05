@@ -3,6 +3,6 @@
   "short_name": "Wallet",
   "start_url": "page2.html",
   "display": "standalone",
-  "background_color": "#000000",
+  "background_color": "#5B9BD5",
   "theme_color": "#000000"
 }
